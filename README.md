@@ -1,2 +1,5 @@
 # hello-world
-following the tutorial
+Hello Humans,
+
+Sadaf here, I am a learner with never ending passion for development.
+
